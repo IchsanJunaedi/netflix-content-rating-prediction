@@ -1,0 +1,17 @@
+# Checkpoints & Cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Gambar tugas & referensi
+*.png
+*.jpg
+*.jpeg
+
+# Notebook lama / eksperimen
+Classification.ipynb
+
+# File sistem & IDE
+.vscode/
+.DS_Store
+Thumbs.db
