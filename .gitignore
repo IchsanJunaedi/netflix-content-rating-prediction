@@ -3,10 +3,13 @@
 __pycache__/
 *.pyc
 
-# Gambar tugas & referensi
+# Gambar tugas & referensi (kecuali assets/)
 *.png
 *.jpg
 *.jpeg
+!assets/*.jpg
+!assets/*.jpeg
+!assets/*.png
 
 # Notebook lama / eksperimen
 Classification.ipynb
