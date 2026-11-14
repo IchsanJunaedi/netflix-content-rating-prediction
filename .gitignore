@@ -2,14 +2,16 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+.venv/
+venv/
 
-# Gambar tugas & referensi (kecuali assets/)
+# Gambar tugas & referensi (kecuali overview)
 *.png
 *.jpg
 *.jpeg
-!assets/*.jpg
-!assets/*.jpeg
-!assets/*.png
+!overview.jpg
+!overview.jpeg
+!overview.png
 
 # Notebook lama / eksperimen
 Classification.ipynb
