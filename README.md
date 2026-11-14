@@ -41,7 +41,7 @@ Model dan Evaluasi:
 
 ## 4. Contributors
 
-- Muhammad Ichsan Junaedi (NIM: 241572010024)
-- Muhammad Naufal Fauzan (NIM: 241572010008)
-- Fikri Prasetyono (NIM: 241572010001)
-- Mutiara Adinda (NIM: 241572010005)
+- NIM: 241572010024
+- NIM: 241572010008
+- NIM: 241572010001
+- NIM: 241572010005
